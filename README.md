@@ -27,12 +27,6 @@ A simple and responsive recipe webpage built using HTML and CSS, based on a [Fig
 
 ---
 
-## 📘 How to Use This Project
-
-You can run this project locally on your computer or publish it online using GitHub Pages. Below are two options depending on your experience level.
-
----
-
 ## View
 You can visualize the resume online here:  
 ✔️ [https://molimpion.github.io/Recipe-Page/](https://molimpion.github.io/Recipe-Page/)
