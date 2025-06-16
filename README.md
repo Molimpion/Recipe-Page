@@ -33,22 +33,6 @@ You can run this project locally on your computer or publish it online using Git
 
 ---
 
-### 👨‍💻 Option A: For Developers / Clone and Run Locally
-
-Follow these steps to download and run the project on your own computer:
-
-#### ✅ Step 1: Install Git (if you haven't already)
-
-If you don't have Git installed, download and install it from:  
-[https://git-scm.com/downloads](https://git-scm.com/downloads)
-
-> git clone https://github.com/yourusername/recipe-page.git
-cd recipe-page
----
-
-#### 🧑‍🎓 Option B: For Beginners / View It Online with GitHub Pages
-
-No installation needed!
-
-view on this link:
-- 
+## View
+You can visualize the resume online here:  
+✔️ [https://molimpion.github.io/Recipe-Page/](https://molimpion.github.io/Recipe-Page/)
