@@ -23,7 +23,7 @@ A simple and responsive recipe webpage built using HTML and CSS, based on a [Fig
 
 - HTML5  
 - CSS3  
-- [Figma](https://www.figma.com/) (UI reference)  
+- [Figma](https://www.figma.com/community/file/1360315130061454535/pagina-de-receita) (UI reference)  
 
 ---
 
