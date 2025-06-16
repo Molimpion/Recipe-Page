@@ -26,18 +26,7 @@ A simple and responsive recipe webpage built using HTML and CSS, based on a [Fig
 - [Figma](https://www.figma.com/) (UI reference)
 
 ---
-
-## 📂 Getting Started
-
-You can run this project locally by following these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/recipe-page.git
-
-   ---
-   
+ 
   ## 📘 How to Use This Project
 
 Follow these steps to run and explore this project on your local machine:
