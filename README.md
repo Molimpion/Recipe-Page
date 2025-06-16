@@ -42,10 +42,8 @@ Follow these steps to download and run the project on your own computer:
 If you don't have Git installed, download and install it from:  
 [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
-> 💡 You can check if Git is installed by opening a terminal or command prompt and typing:
-```bash```
-git --version
-
+> git clone https://github.com/yourusername/recipe-page.git
+cd recipe-page
 ---
 
 #### 🧑‍🎓 Option B: For Beginners / View It Online with GitHub Pages
