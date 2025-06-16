@@ -35,3 +35,30 @@ You can run this project locally by following these steps:
 
    ```bash
    git clone https://github.com/yourusername/recipe-page.git
+
+   ---
+   
+   ## 📘 How to Use This Project
+
+Follow these steps to run and explore this project on your local machine:
+
+### 1. ✅ Prerequisites
+
+No special tools are required — all you need is:
+
+- A modern web browser (like Chrome, Firefox, Edge)
+- A code editor (like [VS Code](https://code.visualstudio.com/)) — optional, for exploring the code
+- Git installed (optional, if you want to clone using Git)
+
+---
+
+### 2. 📥 Download the Project
+
+You have two options:
+
+#### Option A: Using Git
+
+```bash
+git clone https://github.com/yourusername/recipe-page.git
+cd recipe-page
+
