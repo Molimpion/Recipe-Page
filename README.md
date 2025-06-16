@@ -33,19 +33,18 @@ You can run this project locally on your computer or publish it online using Git
 
 ---
 
-### 👨‍💻 Option A: For Developers / Experienced Users
+### 👨‍💻 Option A: For Developers / Clone and Run Locally
 
-#### ✅ Prerequisites
+Follow these steps to download and run the project on your own computer:
 
-- Git installed (optional but recommended)  
-- A modern web browser  
-- A code editor like [VS Code](https://code.visualstudio.com/) (optional, to explore the code)
+#### ✅ Step 1: Install Git (if you haven't already)
 
-#### 📥 Clone and Run Locally
+If you don't have Git installed, download and install it from:  
+[https://git-scm.com/downloads](https://git-scm.com/downloads)
 
-bash
-git clone https://github.com/yourusername/recipe-page.git
-cd recipe-page
+> 💡 You can check if Git is installed by opening a terminal or command prompt and typing:
+```bash```
+git --version
 
 ---
 
