@@ -47,6 +47,8 @@ bash
 git clone https://github.com/yourusername/recipe-page.git
 cd recipe-page
 
+---
+
 #### 🧑‍🎓 Option B: For Beginners / View It Online with GitHub Pages
 
 No installation needed!
