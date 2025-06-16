@@ -38,7 +38,7 @@ You can run this project locally by following these steps:
 
    ---
    
-   ## 📘 How to Use This Project
+  ## 📘 How to Use This Project
 
 Follow these steps to run and explore this project on your local machine:
 
