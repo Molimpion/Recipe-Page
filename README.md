@@ -53,15 +53,5 @@ cd recipe-page
 
 No installation needed!
 
-Follow these steps to publish and view the page online:
-
-1. Go to the repository of this project on GitHub.
-2. Click on **Settings** of the repository.
-3. Scroll down to the **Pages** section (or **Deploy > Pages**).
-4. Under **Source**, select the `main` (or `master`) branch and choose the `/ (root)` folder if needed.
-5. Click **Save**.
-6. After a few seconds, GitHub will provide a link like:  
-   `https://yourusername.github.io/recipe-page`
-7. Done! Your recipe page is now live and publicly accessible.
-
-> 💡 Tip: Rename your repository to `yourusername.github.io` if you want this project to be your personal website homepage.
+view on this link:
+- 
