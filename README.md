@@ -12,42 +12,54 @@ A simple and responsive recipe webpage built using HTML and CSS, based on a [Fig
 
 ## 🚀 Features
 
-- Semantic and accessible HTML structure
-- Clean, responsive CSS styling
-- Layout based on a professional Figma UI
-- Mobile-first design
+- Semantic and accessible HTML structure  
+- Clean, responsive CSS styling  
+- Layout based on a professional Figma UI  
+- Mobile-first design  
 
 ---
 
 ## 🔧 Technologies
 
-- HTML5
-- CSS3
-- [Figma](https://www.figma.com/) (UI reference)
-
----
- 
-  ## 📘 How to Use This Project
-
-Follow these steps to run and explore this project on your local machine:
-
-### 1. ✅ Prerequisites
-
-No special tools are required — all you need is:
-
-- A modern web browser (like Chrome, Firefox, Edge)
-- A code editor (like [VS Code](https://code.visualstudio.com/)) — optional, for exploring the code
-- Git installed (optional, if you want to clone using Git)
+- HTML5  
+- CSS3  
+- [Figma](https://www.figma.com/) (UI reference)  
 
 ---
 
-### 2. 📥 Download the Project
+## 📘 How to Use This Project
 
-You have two options:
+You can run this project locally on your computer or publish it online using GitHub Pages. Below are two options depending on your experience level.
 
-#### Option A: Using Git
+---
 
-```bash
+### 👨‍💻 Option A: For Developers / Experienced Users
+
+#### ✅ Prerequisites
+
+- Git installed (optional but recommended)  
+- A modern web browser  
+- A code editor like [VS Code](https://code.visualstudio.com/) (optional, to explore the code)
+
+#### 📥 Clone and Run Locally
+
+bash
 git clone https://github.com/yourusername/recipe-page.git
 cd recipe-page
 
+#### 🧑‍🎓 Option B: For Beginners / View It Online with GitHub Pages
+
+No installation needed!
+
+Follow these steps to publish and view the page online:
+
+1. Go to the repository of this project on GitHub.
+2. Click on **Settings** of the repository.
+3. Scroll down to the **Pages** section (or **Deploy > Pages**).
+4. Under **Source**, select the `main` (or `master`) branch and choose the `/ (root)` folder if needed.
+5. Click **Save**.
+6. After a few seconds, GitHub will provide a link like:  
+   `https://yourusername.github.io/recipe-page`
+7. Done! Your recipe page is now live and publicly accessible.
+
+> 💡 Tip: Rename your repository to `yourusername.github.io` if you want this project to be your personal website homepage.
