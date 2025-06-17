@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/44309a9f-1204-4522-ad17-c835f4450555)# 🍽️ Recipe Page
+# 🍽️ Recipe Page
 
 A simple and responsive recipe webpage built using HTML and CSS, based on a [Figma design by Rocketseat](https://www.figma.com/community/file/1360315130061454535/pagina-de-receita). This project is great for beginners who want to practice semantic HTML and modern CSS layout techniques.
 
