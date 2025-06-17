@@ -23,13 +23,7 @@ A simple and responsive recipe webpage built using HTML and CSS, based on a [Fig
 
 - HTML5  
 - CSS3  
-- [Figma](https://www.figma.com/) (UI reference)  
-
----
-
-## 📘 How to Use This Project
-
-You can run this project locally on your computer or publish it online using GitHub Pages. Below are two options depending on your experience level.
+- [Figma](https://www.figma.com/community/file/1360315130061454535/pagina-de-receita) (UI reference)  
 
 ---
 
