@@ -6,7 +6,8 @@ A simple and responsive recipe webpage built using HTML and CSS, based on a [Fig
 
 ## 📸 Preview
 
-![Screenshot of the Recipe Page](https://via.placeholder.com/800x400.png?text=Recipe+Page+Preview)
+![image](https://github.com/user-attachments/assets/4a1511c0-084a-453e-8ef2-4bc84e6382c5)
+
 
 ---
 
